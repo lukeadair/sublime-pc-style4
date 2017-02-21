@@ -10,6 +10,6 @@ Sublime Auto-Complete for Pine Cove style4
   - Search for "sublime-pc-style4"
  - Profit!
  
- ## Update
+## Update
   - ``` ctrl+shift+p ``` "Package Control: Upgrade Package"
   - If updates are available, then sublime-pc-style4 will show in the list
