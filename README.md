@@ -4,9 +4,11 @@ Sublime Auto-Complete for Pine Cove style4
 ## Install
 
  - Make sure that you have sublime [package control](https://packagecontrol.io/) installed
- - ``` ctrl+shift+p ``` "Package Control: Add Repository"
-  - Add this repo: "https://github.com/lukeadair/sublime-pc-style4/"
- -  ``` ctrl+shift+p ``` "Package Control: Install Package"
+ - Add this repository to package control in sublime
+  - ``` ctrl+shift+p ``` "Package Control: Add Repository"
+  - type "https://github.com/lukeadair/sublime-pc-style4/"
+ -  Install the package in sublime
+  - ``` ctrl+shift+p ``` "Package Control: Install Package"
   - Search for "sublime-pc-style4"
  - Profit!
  
